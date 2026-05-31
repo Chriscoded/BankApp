@@ -1,4 +1,4 @@
-package service;
+package net.javaguides.banking_app.service;
 
 import net.javaguides.banking_app.dto.AccountDto;
 
